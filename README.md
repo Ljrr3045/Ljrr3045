@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Rivero</h1>
-<h3 align="center">I am a blockchain developer passionate about the crypto world</h3>
+<h3 align="center">I am a Blockchain Developer passionate about the crypto world 😁</h3>
 
 <p align="left"> <a href="https://twitter.com/ljrr3045dev" target="blank"><img src="https://img.shields.io/twitter/follow/ljrr3045dev?logo=twitter&style=for-the-badge" alt="ljrr3045dev" /></a> </p>
 
