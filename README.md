@@ -14,6 +14,8 @@
 <a href="https://twitter.com/ljrr3045dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ljrr3045dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luis-rivero-a76013152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-rivero-a76013152" height="30" width="40" /></a>
 </p>
+<a href="https://t.me/LJ_R99" target="blank"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="LJ_R99" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> 
