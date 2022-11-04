@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/ljrr3045dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ljrr3045dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luis-rivero-a76013152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-rivero-a76013152" height="30" width="40" /></a>
-<a href="https://t.me/LJ_R99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="LJ_R99" height="30" width="40" /></a>
+<a href="https://t.me/LJ_R99" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="LJ_R99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
