@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luis Rivero</h1>
-<h3 align="center">I am a Blockchain Developer passionate about the crypto world 😁</h3>
+<h3 align="center">I am a Full Stack Blockchain Developer passionate about the crypto world 😁</h3>
 
 <p align="left"> <a href="https://twitter.com/ljrr3045dev" target="blank"><img src="https://img.shields.io/twitter/follow/ljrr3045dev?logo=twitter&style=for-the-badge" alt="ljrr3045dev" /></a> </p>
 
-- 💬 Ask me about **React, Solidity, Blockchain, Hardhat...**
+- 💬 Ask me about **React, Solidity, Blockchain, Smart Contracts, Hardhat...**
 
 - You can contact me at **ljrr3045@gmail.com**
 
-- 📄 Know about my experiences [Show CV](https://drive.google.com/file/d/1n3t2biPx3cjyWMJnJ753RK-2wd09zQaa/view?usp=share_link)
+- 📄 Know about my experiences [Show CV](https://drive.google.com/file/d/1BfGTPsjZf__uAEm3UMG1nhhZzmrO8X1k/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
