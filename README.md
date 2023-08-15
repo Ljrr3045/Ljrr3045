@@ -7,7 +7,7 @@
 
 - You can contact me at **ljrr3045@gmail.com**
 
-- 📄 Know about my experiences [Show CV](https://drive.google.com/file/d/1GbYVdeGoyEfe-qWyphei9bk3fc2qDXpz/view?usp=sharing)
+- 📄 Know about my experiences [Show CV](https://drive.google.com/file/d/1bYzBjrJLLY6S-a2VhyQu1ljGxb8-IJ07/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
