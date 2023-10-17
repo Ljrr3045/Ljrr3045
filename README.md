@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello 👋 I'm a Full-Stack/Blockchain Developer, with 2 years of experience enriching the blockchain world through the construction and optimization of web3 applications. My passion is blockchain technology and its revolutionary potential to transform industries.
 
-My skills are centered around developing, testing, and auditing Smart Contracts using Solidity, Ethers.js, and Hardhat. But that's not all, I also excel in JavaScript, TypeScript, MongoDB, React.js, Node.js, Express.js and Next.js. These skills allow me to build efficient web2 and web3 Front-Ends and Back-Ends.
+My skills are centered around developing, testing, and auditing smart contracts using Solidity, Ethers.js, and Hardhat. But that's not all, I also excel in JavaScript, TypeScript, MongoDB, React.js, Node.js, Express.js and Next.js. These skills allow me to build efficient web2 and web3 Front-Ends and Back-Ends.
 
 As a Full-Stack/Blockchain Developer, I'm committed to continuous learning and staying up-to-date with the best practices of web and blockchain development. I firmly believe that constant learning is what keeps one relevant in this dynamic field.
 
