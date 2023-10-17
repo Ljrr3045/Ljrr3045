@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a Full Stack Blockchain Developer with 2 years experience building and optimizing web3 applications. Skilled in developing, testing and auditing smart contracts using Solidity, Ethers.js and Hardhat. Proficient in JavaScript, TypeScript, MongoDB, React.js, Node.js, Express.js and Next.js for building performant web2 and web3 Front-ends and Back-ends. Passionate about blockchain technology and its potential to transform industries. Continuously learning and staying up-to-date on blockchain and web development best practices. Excited to apply my skills to decentralize systems and bring trust and transparency to applications.
+Hello 👋 I'm a Full-Stack/Blockchain Developer, with 2 years of experience enriching the blockchain world through the construction and optimization of web3 applications. My passion is blockchain technology and its revolutionary potential to transform industries.
+
+My skills are centered around developing, testing, and auditing Smart Contracts using Solidity, Ethers.js, and Hardhat. But that's not all, I also excel in JavaScript, TypeScript, MongoDB, React.js, Node.js, Express.js and Next.js. These skills allow me to build efficient web2 and web3 Front-Ends and Back-Ends.
+
+As a Full-Stack/Blockchain Developer, I'm committed to continuous learning and staying up-to-date with the best practices of web and blockchain development. I firmly believe that constant learning is what keeps one relevant in this dynamic field.
+
+What excites me most about my work is the possibility of applying my skills to decentralize systems and bring trust and transparency to applications. I love the idea of using blockchain technology and Solidity to make a significant contribution to this exciting field.
+
+If you're looking for someone passionate about blockchain, dedicated to smart contract development, and with skills in Front-End and Full-Stack development, I'd be thrilled to connect with you! Don't hesitate to get in touch if you want to talk about blockchain, web development or just for a chat. I'm eagerly looking forward to hearing your ideas and projects 🙌
 
 
 ## 🌐 Socials:
