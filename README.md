@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello 👋 I'm a experienced Full Stack Developer specializing in Web3 technologies, with over 2 years of hands-on experience in the blockchain industry. Proficient in system architecture design, server-side coding and frontend development contributing to the creation of efficient and user-friendly web interfaces and component library implementations.
+Hello 👋 I'm a experienced Full Stack Developer specializing in Web3 technologies, with over 3 years of hands-on experience in the blockchain industry. Proficient in system architecture design, server-side coding and frontend development contributing to the creation of efficient and user-friendly web interfaces and infrastructures.
 
-Skilled in JavaScript/TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Vercel, AWS, microservices architecture, and smart contract development using Solidity, Ethers.js, and Hardhat.
+Skilled in JavaScript/TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Vercel, AWS, Serverless, Lambda and smart contract development using Solidity, Ethers.js, and Hardhat.
 
-Led the technical development of innovative B2B and B2C products, including infrastructure and UI enhancements. Managed development teams and drove successful project launches. Extensive experience in client and server-side functionalities, integrating blockchain standards and conducting smart contract audits.
+Lead the technical development of innovative B2B and B2C products, including infrastructures and web applications. Managed development teams and drove successful project launches. Extensive experience in client and server-side functionalities, integrating blockchain standards and conducting smart contract audits.
 
 Passionate about leveraging blockchain technology to enhance transparency and trust in applications. Proven track record in deploying smart contracts on Ethereum and Polygon blockchains, designing custom ERC20, ERC721, and ERC1155 contracts for DeFi and NFT projects.
 
