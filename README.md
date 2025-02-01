@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hello 👋 I'm a experienced Full Stack Developer specializing in Web3 technologies, with over 3 years of hands-on experience in the blockchain industry. Proficient in system architecture design, server-side coding and frontend development contributing to the creation of efficient and user-friendly web interfaces and infrastructures.
+Hello 👋 I'm a experienced Full Stack Developer, with over 3 years of hands-on experience in the software development industry. Proficient in System Architecture, Front-end/Back-end development and Web3/Blockchain development. Contributing to the creation of efficient applications and infrastructures.
 
-Skilled in JavaScript/TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Vercel, AWS, Serverless, Lambda and smart contract development using Solidity, Ethers.js, and Hardhat.
+Skilled in JavaScript/TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Vercel, AWS, Serverless, Lambda and Smart Contract development (Solidity, Ethers.js, Foundry and Hardhat).
 
 Lead the technical development of innovative B2B and B2C products, including infrastructures and web applications. Managed development teams and drove successful project launches. Extensive experience in client and server-side functionalities, integrating blockchain standards and conducting smart contract audits.
 
 Passionate about leveraging blockchain technology to enhance transparency and trust in applications. Proven track record in deploying smart contracts on Ethereum and Polygon blockchains, designing custom ERC20, ERC721, and ERC1155 contracts for DeFi and NFT projects.
 
-If you're seeking a dedicated Full Stack Developer with expertise in blockchain technology and frontend/backend development, let's connect. I'm eager to discuss how my skills and experience can contribute to your projects and initiatives 🙌
+If you're seeking a dedicated Full Stack Developer with expertise in Front-end/Back-end development and Web3/Blockchain technology, let's connect. I'm eager to discuss how my skills and experience can contribute to your projects and initiatives 🙌
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-rivero-blockchain-full-stack-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ljrr3045Dev) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/LJ_R99)
