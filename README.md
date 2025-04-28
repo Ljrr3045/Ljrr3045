@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hello 👋 I'm a experienced Full Stack Developer, with over 3 years of hands-on experience in the software development industry. Proficient in System Architecture, Front-end/Back-end development and Web3/Blockchain development. Contributing to the creation of efficient applications and infrastructures.
+Hello 👋 I'm an experienced Full Stack Developer, with over 3 years of hands-on experience in the software development industry. Proficient in System Architecture, Front-end/Back-end development and Web3/Blockchain development, contributing to the creation of efficient applications and infrastructures.
 
-Skilled in JavaScript/TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Vercel, AWS, Serverless, Lambda and Smart Contract development (Solidity, Ethers.js, Foundry and Hardhat).
+Skilled in JavaScript/TypeScript, React.js, Next.js, React Native, Expo, Node.js, Express.js, MongoDB, Vercel, AWS, Serverless, Lambda and Smart Contract Development (Solidity, Ethers.js, Foundry and Hardhat). Currently expanding my knowledge in Artificial Intelligence (AI) to explore new ways of building smarter and more innovative solutions.
 
-Lead the technical development of innovative B2B and B2C products, including infrastructures and web applications. Managed development teams and drove successful project launches. Extensive experience in client and server-side functionalities, integrating blockchain standards and conducting smart contract audits.
+I have led the technical development of innovative B2B and B2C products, including infrastructures and web applications. I have managed development teams and driven successful project launches, with extensive experience in client and server-side functionalities.
 
-Passionate about leveraging blockchain technology to enhance transparency and trust in applications. Proven track record in deploying smart contracts on Ethereum and Polygon blockchains, designing custom ERC20, ERC721, and ERC1155 contracts for DeFi and NFT projects.
+Passionate about leveraging blockchain technology to enhance transparency and trust in applications. Proven track record in deploying smart contracts on Ethereum and Polygon blockchains and designing custom smarts contracts for DeFi and NFT projects.
 
-If you're seeking a dedicated Full Stack Developer with expertise in Front-end/Back-end development and Web3/Blockchain technology, let's connect. I'm eager to discuss how my skills and experience can contribute to your projects and initiatives 🙌
+If you're seeking a dedicated Full Stack Developer with expertise in Front-end/Back-end development, Web3/Blockchain technology, and a growing passion for AI, let's connect. I'm eager to discuss how my skills and experience can contribute to your projects and initiatives 🙌
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-rivero-blockchain-full-stack-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ljrr3045Dev) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/LJ_R99)
