@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋 I'm an experienced Full Stack Developer, with over 3 years of hands-on experience in the software development industry. Proficient in System Architecture, Front-end/Back-end development and Web3/Blockchain development, contributing to the creation of efficient applications and infrastructures.
+Hello 👋 I'm an experienced Full Stack Developer, with over 4 years of hands-on experience in the software development industry. Proficient in System Architecture, Front-end/Back-end development and Web3/Blockchain development, contributing to the creation of efficient applications and infrastructures.
 
 Skilled in JavaScript/TypeScript, React.js, Next.js, React Native, Expo, Node.js, Express.js, MongoDB, Vercel, AWS, Serverless, Lambda and Smart Contract Development (Solidity, Ethers.js, Foundry and Hardhat). Currently expanding my knowledge in Artificial Intelligence (AI) to explore new ways of building smarter and more innovative solutions.
 
