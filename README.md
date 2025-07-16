@@ -17,7 +17,7 @@ Expanding knowledge in Artificial Intelligence to create smarter and more innova
 
 Building the next big product? Get in touch to discuss how I can drive your vision with high-impact technical solutions 🙌
 
-#React #Web3 #AI #TechnicalLeadership #FrontendDeveloper #FullStackDeveloper #StartupReady
+#React #Web3 #AI #FrontendDeveloper #FullStackDeveloper #StartupReady
 
 ## 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/luis-rivero-full-stack-blockchain-ai-dev) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/LJ_R99)
