@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Senior Frontend and Full Stack Developer with 4+ years transforming ideas into scalable products that impact thousands of users. Systems Engineer specialized in frontend with strong technical leadership experience managing teams and optimizing critical applications.
 
 🚀 PROVEN IMPACT:<br/>
