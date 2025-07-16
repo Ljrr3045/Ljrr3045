@@ -1,18 +1,18 @@
 # 💫 About Me:
 Senior Frontend and Full Stack Developer with 4+ years transforming ideas into scalable products that impact thousands of users. Systems Engineer specialized in frontend with strong technical leadership experience managing teams and optimizing critical applications.
 
-## 🚀 PROVEN IMPACT:
-- Led complete B2B/B2C application development from zero to 8K+ active users.
-- Optimized Web3 ICO platform improving conversion rate 40% → 90%, contributing to $6M raised.
-- Managed teams of 5-6 developers implementing Agile/Scrum with proven success.
+🚀 PROVEN IMPACT:<br/>
+• Led complete B2B/B2C application development from zero to 8K+ active users.
+• Optimized Web3 ICO platform improving conversion rate 40% → 90%, contributing to $6M raised.
+• Managed teams of 5-6 developers implementing Agile/Scrum with proven success.
 
-## 💻 TECHNICAL EXPERTISE:
+💻 TECHNICAL EXPERTISE:<br/>
 React • Next.js • TypeScript • Node.js • React Native • Expo • AWS • Serverless • MongoDB • PostgreSQL • Solidity • Ethers.js • Hardhat • Smart Contracts • Wagmi.
 
-## 🎯 KEY DIFFERENTIATOR:<br/><br/>
+🎯 KEY DIFFERENTIATOR:<br/>
 I don't just write code - I transform product requirements into efficient and scalable software solutions. My strength lies in identifying technical gaps and optimizing existing systems, always making decisions that benefit both the product and the team.
 
-## 📈 CURRENTLY:
+📈 CURRENTLY:<br/>
 Expanding knowledge in Artificial Intelligence to create smarter and more innovative solutions. Focused on Senior Frontend/Full Stack opportunities in Web3 or AI startups where I can apply my technical expertise.
 
 Building the next big product? Get in touch to discuss how I can drive your vision with high-impact technical solutions 🙌
