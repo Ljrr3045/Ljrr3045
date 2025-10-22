@@ -7,7 +7,7 @@ Senior Frontend and Full Stack Developer with 4+ years transforming ideas into s
 • Managed teams of 5-6 developers implementing Agile/Scrum with proven success.<br/>
 
 💻 TECHNICAL EXPERTISE:<br/>
-React • Next.js • TypeScript • Node.js • React Native • Expo • AWS • Serverless • MongoDB • PostgreSQL • Solidity • Ethers.js • Hardhat • Smart Contracts • Wagmi.
+React • Next.js • TypeScript • Node.js • Nest.js • React Native • Expo • AWS • Serverless • MongoDB • PostgreSQL • Solidity • Ethers.js • Hardhat • Smart Contracts • Wagmi.
 
 🎯 KEY DIFFERENTIATOR:<br/>
 I don't just write code - I transform product requirements into efficient and scalable software solutions. My strength lies in identifying technical gaps and optimizing existing systems, always making decisions that benefit both the product and the team.
