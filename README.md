@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Full Stack Software Engineer specializing in Web3 protocols and AI product development. Over 5 years of experience building applications from 0 to 8K+ active users and optimizing Web3 platforms to drive over $6M in funding.
+Full Stack Software Engineer specializing in Web3 protocols and AI product development. Over 5 years of experience building applications from 0 to 8K+ active users and optimizing platforms to drive over $6M in funding.
 
 🚀 MEASURED IMPACT:</br>
 - Web3 Growth Engine: Engineered an ICO dApp utilizing Solidity, Ethers.js, and Wagmi; optimized frontend performance (reducing LCP and INP), boosting conversion rate from 40% to 90%, contributing directly to a $6M capital raise.
