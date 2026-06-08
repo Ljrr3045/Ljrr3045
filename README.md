@@ -1,23 +1,23 @@
 # 👨‍💻 About Me:
-Senior Frontend and Full Stack Developer with 4+ years transforming ideas into scalable products that impact thousands of users. Systems Engineer specialized in frontend with strong technical leadership experience managing teams and optimizing critical applications.
+Full Stack Software Engineer specializing in Web3 protocols and AI product development. Over 5 years of experience building applications from 0 to 8K+ active users and optimizing Web3 platforms to drive over $6M in funding.
 
-🚀 PROVEN IMPACT:<br/>
-• Led complete B2B/B2C application development from zero to 8K+ active users.<br/>
-• Optimized Web3 ICO platform improving conversion rate 40% → 90%, contributing to $6M raised.<br/>
-• Managed teams of 5-6 developers implementing Agile/Scrum with proven success.<br/>
+🚀 MEASURED IMPACT:</br>
+- Web3 Growth Engine: Engineered an ICO dApp utilizing Solidity, Ethers.js, and Wagmi; optimized frontend performance (reducing LCP and INP), boosting conversion rate from 40% to 90%, contributing directly to a $6M capital raise.
+- Product Scale: Spearheaded the full-stack architecture of a scalable B2B/B2C application from scratch, scaling it seamlessly to over 8K+ active users on AWS and Serverless infrastructure.
+- Team Leadership: Guided Agile/Scrum teams of 5-6 developers, driving clean code standards, microservices migration, and robust automated testing (Jest, Cypress) to reduce production bugs.
 
-💻 TECHNICAL EXPERTISE:<br/>
-React • Next.js • TypeScript • Node.js • Nest.js • React Native • Expo • AWS • Serverless • MongoDB • PostgreSQL • Solidity • Ethers.js • Hardhat • Smart Contracts • Wagmi.
+💻 TECHNICAL STACK:</br>
+- Frontend: React, Next.js, TypeScript, React Native, Expo, Redux, Responsive UX design.
+- Backend & DB: Node.js, Nest.js, Serverless, PostgreSQL, MongoDB, RESTful API design.
+- Web3: Solidity, Smart Contracts, Hardhat, Ethers.js, Wagmi, dApp Development.
+- AI Systems: Retrieval-Augmented Generation (RAG), LLM integration, Prompt Engineering.
 
-🎯 KEY DIFFERENTIATOR:<br/>
-I don't just write code - I transform product requirements into efficient and scalable software solutions. My strength lies in identifying technical gaps and optimizing existing systems, always making decisions that benefit both the product and the team.
-
-📈 CURRENTLY:<br/>
-Expanding knowledge in Artificial Intelligence to create smarter and more innovative solutions. Focused on Senior Frontend/Full Stack opportunities in Web3 or AI startups where I can apply my technical expertise.
+🤖 AI-AUGMENTED SOFTWARE ENGINEERING:</br>
+I build software at the speed of thought. By orchestrating advanced agentic coding workflows, I utilize Cursor, Claude Code, and OpenCode in tandem with custom Model Context Protocol (MCP) servers. I write and maintain Git-versioned agent instructions (CLAUDE.md,.cursorrules) and custom agent skills (.ai/skills) to compress traditional software delivery lifecycles by 3x. I don't just generate code; I leverage AI agents under strict architectural boundaries, verifying every change through structured CI/CD pipelines.
 
 Building the next big product? Get in touch to discuss how I can drive your vision with high-impact technical solutions 🙌
 
-#React #Web3 #AI #FrontendDeveloper #FullStackDeveloper #StartupReady
+#Web3 #AI #FrontendDeveloper #FullStackDeveloper #StartupReady
 
 ## 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/luis-rivero-full-stack-blockchain-ai-dev) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/LJ_R99)
